@@ -1,0 +1,70 @@
+/* input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input {
+    text-align:right;
+
+  }
+
+
+   */
+
+.contain_settings {
+  margin-top: 100px;
+  font-size: 20px;
+}
+
+.contain_settings > * {
+  text-align: center;
+}
+
+.contain_settings label {
+  padding: 3px;
+  padding-right: 8px;
+}
+
+.contain_timer {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 200px;
+}
+
+.contain_timer > div {
+  text-align: center;
+}
+
+.contain_buttons > button{
+  margin: 5px;
+  font-size: 20px;
+}
+
+.span_frequency {
+  display: block;
+  font-size: 30px;
+}
+
+.contain-edit-timer {
+  background: #efefef;
+  width: 30vw;
+  margin: auto;
+}
+
+.contain-edit-timer span {
+  padding: 0 3px 0 3px;
+}
+
+.contain-edit-timer .span-edit {
+  padding: 0 5px 0 5px;
+  color: #333333;
+}
+
+.span-non-edit {
+  padding: 0 3px 0 3px;
+}
+
+/* .span-edit{
+
+   } */
